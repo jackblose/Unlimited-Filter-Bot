@@ -52,7 +52,7 @@ async def cb_handler(client, query):
                 ],
                 [
                     InlineKeyboardButton("Channel Kata", url="https://t.me/racauanhatii"),
-                    InlineKeyboardButton("Bots Info", url="https://t.me/racauanhatii")
+                    InlineKeyboardButton("Bots Info", url="https://t.me/wysupportinfo")
                 ]
             ]
         )
