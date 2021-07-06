@@ -58,6 +58,6 @@ See <i>/help</i> for commands and more details.</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Instagram :</b> <a href='https://www.instagram.com/muhammadwaly_/</a> 
+⭕️<b>Pacarnya :</b> @shizukamanagebot</a> 
 
 """
